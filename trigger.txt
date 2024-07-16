@@ -1,6 +1,1 @@
-jxxghp/moviepilot:latest registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot:latest
-iyuucn/iyuuplus-dev:latest registry.cn-hangzhou.aliyuncs.com/personalpool/iyuu-dev:latest
-lscr.io/linuxserver/transmission:latest registry.cn-hangzhou.aliyuncs.com/personalpool/transmission:latest
-lscr.io/linuxserver/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/personalpool/qbittorrent:latest
-portainer/portainer-ce:latest registry.cn-hangzhou.aliyuncs.com/personalpool/portainer-ce:latest
-szzhoubanxian/reseed-puppy:dev registry.cn-hangzhou.aliyuncs.com/personalpool/reseed-puppy:dev
+lovechen/embyserver:latest registry.cn-hangzhou.aliyuncs.com/personalpool/embyserver:latest
