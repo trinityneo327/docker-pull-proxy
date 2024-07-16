@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+jxxghp/moviepilot:1.9.12 egistry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot:1.9.12
