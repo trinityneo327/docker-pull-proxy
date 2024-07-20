@@ -1,1 +1,7 @@
 lovechen/embyserver:latest registry.cn-hangzhou.aliyuncs.com/personalpool/embyserver:latest
+szzhoubanxian/reseed-puppy:dev registry.cn-hangzhou.aliyuncs.com/personalpool/reseed-puppy:latest
+portainer/portainer-ce:latest registry.cn-hangzhou.aliyuncs.com/personalpool/portainer-ce:latest
+lscr.io/linuxserver/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/personalpool/qbittorrent:latest
+lscr.io/linuxserver/transmission:latest registry.cn-hangzhou.aliyuncs.com/personalpool/transmission:latest
+iyuucn/iyuuplus-dev:latest registry.cn-hangzhou.aliyuncs.com/personalpool/iyuu-dev:latest
+jxxghp/moviepilot:latest registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot:latest
