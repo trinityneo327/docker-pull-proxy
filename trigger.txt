@@ -6,8 +6,8 @@ lscr.io/linuxserver/transmission:latest registry.cn-hangzhou.aliyuncs.com/person
 iyuucn/iyuuplus-dev:latest registry.cn-hangzhou.aliyuncs.com/personalpool/iyuu-dev:latest
 jxxghp/moviepilot:latest registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot:latest
 privoce/vocechat-server:latest registry.cn-hangzhou.aliyuncs.com/personalpool/vocechat-server:latest
-linuxserver/docker-radarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/docker-radarr:latest
-linuxserver/docker-sonarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/docker-sonarr:latest
-linuxserver/docker-prowlarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/docker-prowlarr:latest
+lscr.io/linuxserver/docker-radarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/docker-radarr:latest
+lscr.io/linuxserver/docker-sonarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/docker-sonarr:latest
+lscr.io/linuxserver/docker-prowlarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/docker-prowlarr:latest
 ghcr.io/cross-seed/cross-seed:latest registry.cn-hangzhou.aliyuncs.com/personalpool/cross-seed:latest
 ghcr.io/autobrr/autobrr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/autobrr:latest
