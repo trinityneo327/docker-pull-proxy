@@ -1,3 +1,4 @@
+/*
 lovechen/embyserver:latest registry.cn-hangzhou.aliyuncs.com/personalpool/embyserver:latest
 szzhoubanxian/reseed-puppy:dev registry.cn-hangzhou.aliyuncs.com/personalpool/reseed-puppy:latest
 portainer/portainer-ce:latest registry.cn-hangzhou.aliyuncs.com/personalpool/portainer-ce:latest
@@ -5,10 +6,13 @@ lscr.io/linuxserver/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/persona
 lscr.io/linuxserver/transmission:latest registry.cn-hangzhou.aliyuncs.com/personalpool/transmission:latest
 iyuucn/iyuuplus-dev:latest registry.cn-hangzhou.aliyuncs.com/personalpool/iyuu-dev:latest
 jxxghp/moviepilot:1.9.17 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot:1.9.17
-jxxghp/moviepilot-v2:2.1.5 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot-v2:2.1.5
+*/
+jxxghp/moviepilot-v2:2.1.6 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot-v2:2.1.6
+/*
 privoce/vocechat-server:latest registry.cn-hangzhou.aliyuncs.com/personalpool/vocechat-server:latest
 lscr.io/linuxserver/radarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/radarr:latest
 lscr.io/linuxserver/sonarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/sonarr:latest
 lscr.io/linuxserver/prowlarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/prowlarr:latest
 ghcr.io/cross-seed/cross-seed:latest registry.cn-hangzhou.aliyuncs.com/personalpool/cross-seed:latest
 ghcr.io/autobrr/autobrr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/autobrr:latest
+*/
