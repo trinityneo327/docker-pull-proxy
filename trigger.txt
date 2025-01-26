@@ -16,3 +16,4 @@ unilei/aipan-netdisk-search:latest registry.cn-hangzhou.aliyuncs.com/personalpoo
 linzeyi/hivision_idphotos:latest registry.cn-hangzhou.aliyuncs.com/personalpool/hivision_idphotos:latest
 likeflyme/cloudbak:latest registry.cn-hangzhou.aliyuncs.com/personalpool/cloudbak:latest
 doubebly/doube-itv:latest registry.cn-hangzhou.aliyuncs.com/personalpool/doube-itv:latest
+wukongdaily/box:v1.1.0 registry.cn-hangzhou.aliyuncs.com/personalpool/tvhelper-docker:v1.1.0
