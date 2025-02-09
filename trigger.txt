@@ -5,7 +5,7 @@ lscr.io/linuxserver/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/persona
 lscr.io/linuxserver/transmission:latest registry.cn-hangzhou.aliyuncs.com/personalpool/transmission:latest
 iyuucn/iyuuplus-dev:latest registry.cn-hangzhou.aliyuncs.com/personalpool/iyuu-dev:latest
 jxxghp/moviepilot:1.9.17 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot:1.9.17
-jxxghp/moviepilot-v2:2.2.7-1 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot-v2:2.2.7-1
+jxxghp/moviepilot-v2:2.2.7-2 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot-v2:2.2.7-2
 privoce/vocechat-server:latest registry.cn-hangzhou.aliyuncs.com/personalpool/vocechat-server:latest
 lscr.io/linuxserver/radarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/radarr:latest
 lscr.io/linuxserver/sonarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/sonarr:latest
