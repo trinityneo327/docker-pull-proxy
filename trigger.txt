@@ -19,3 +19,4 @@ doubebly/doube-itv:latest registry.cn-hangzhou.aliyuncs.com/personalpool/doube-i
 wukongdaily/box:v1.1.0 registry.cn-hangzhou.aliyuncs.com/personalpool/tvhelper-docker:v1.1.0
 sertion1126/publish-helper:latest registry.cn-hangzhou.aliyuncs.com/personalpool/publish-helper:latest
 jlesage/mkvtoolnix:latest registry.cn-hangzhou.aliyuncs.com/personalpool/mkvtoolnix:latest
+ollama/ollama:latest registry.cn-hangzhou.aliyuncs.com/personalpool/ollama:latest
