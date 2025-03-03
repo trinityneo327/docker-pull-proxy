@@ -4,6 +4,7 @@ portainer/portainer-ce:latest registry.cn-hangzhou.aliyuncs.com/personalpool/por
 lscr.io/linuxserver/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/personalpool/qbittorrent:latest
 lscr.io/linuxserver/transmission:latest registry.cn-hangzhou.aliyuncs.com/personalpool/transmission:latest
 iyuucn/iyuuplus-dev:latest registry.cn-hangzhou.aliyuncs.com/personalpool/iyuu-dev:latest
+jxxghp/nas-tools:3.2.3 registry.cn-hangzhou.aliyuncs.com/personalpool/nas-tools:3.2.3
 jxxghp/moviepilot:1.9.17 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot:1.9.17
 jxxghp/moviepilot-v2:2.3.3-1 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot-v2:2.3.3-1
 privoce/vocechat-server:latest registry.cn-hangzhou.aliyuncs.com/personalpool/vocechat-server:latest
