@@ -21,5 +21,5 @@ wukongdaily/box:v1.1.0 registry.cn-hangzhou.aliyuncs.com/personalpool/tvhelper-d
 sertion1126/publish-helper:latest registry.cn-hangzhou.aliyuncs.com/personalpool/publish-helper:latest
 jlesage/mkvtoolnix:latest registry.cn-hangzhou.aliyuncs.com/personalpool/mkvtoolnix:latest
 ollama/ollama:latest registry.cn-hangzhou.aliyuncs.com/personalpool/ollama:latest
-newptools/harvest:latest registry.cn-hangzhou.aliyuncs.com/personalpool/harvest:latest
 blllicn/ptools:v0.3 registry.cn-hangzhou.aliyuncs.com/personalpool/ptools:v0.3
+saintvamp/auto_dtu:latest registry.cn-hangzhou.aliyuncs.com/personalpool/auto_dtu:latest
