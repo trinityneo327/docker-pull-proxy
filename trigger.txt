@@ -6,7 +6,7 @@ lscr.io/linuxserver/transmission:latest registry.cn-hangzhou.aliyuncs.com/person
 iyuucn/iyuuplus-dev:latest registry.cn-hangzhou.aliyuncs.com/personalpool/iyuu-dev:latest
 nastool/nas-tools:latest registry.cn-hangzhou.aliyuncs.com/personalpool/nas-tools:latest
 jxxghp/moviepilot:1.9.17 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot:1.9.17
-jxxghp/moviepilot-v2:2.3.6 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot-v2:2.3.6
+jxxghp/moviepilot-v2:2.3.6-1 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot-v2:2.3.6-1
 privoce/vocechat-server:latest registry.cn-hangzhou.aliyuncs.com/personalpool/vocechat-server:latest
 lscr.io/linuxserver/radarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/radarr:latest
 lscr.io/linuxserver/sonarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/sonarr:latest
