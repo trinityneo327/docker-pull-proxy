@@ -1,1 +1,1 @@
-jxxghp/moviepilot-v2:2.6.6 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot-v2:2.6.6
+jxxghp/moviepilot-v2:2.6.7 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot-v2:2.6.7
