@@ -1,2 +1,1 @@
-jxxghp/moviepilot-v2:2.7.1 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot-v2:2.7.1
-ghcr.io/flaresolverr/flaresolverr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/flaresolverr:latest
+jxxghp/moviepilot-v2:2.7.2 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot-v2:2.7.2
