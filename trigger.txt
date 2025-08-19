@@ -1,1 +1,1 @@
-saintvamp/auto_dtu:latest registry.cn-hangzhou.aliyuncs.com/personalpool/auto_dtu:latest
+sertion1126/publish-helper:latest registry.cn-hangzhou.aliyuncs.com/personalpool/publish-helper:latest
