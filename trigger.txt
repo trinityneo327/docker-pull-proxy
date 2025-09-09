@@ -1,1 +1,1 @@
-szabis/iventoy:latest registry.cn-hangzhou.aliyuncs.com/personalpool/iventoy:latest
+bjdbjd/publish-helper:v1.5.8 registry.cn-hangzhou.aliyuncs.com/personalpool/publish-helper:v1.5.8
