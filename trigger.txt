@@ -1,1 +1,1 @@
-lastthree/skit-panel:1.3 registry.cn-hangzhou.aliyuncs.com/personalpool/skit-panel:1.3
+jxxghp/moviepilot-v2:v2.8.0 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot-v2:v2.8.0
