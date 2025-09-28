@@ -1,1 +1,1 @@
-lswl/vertex:stable registry.cn-hangzhou.aliyuncs.com/personalpool/vertex:stable
+ghcr.io/cross-seed/cross-seed:6.13.5 registry.cn-hangzhou.aliyuncs.com/personalpool/cross-seed:6.13.5
