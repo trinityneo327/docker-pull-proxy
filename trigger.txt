@@ -1,1 +1,1 @@
-ghcr.io/cross-seed/cross-seed:6.13.5 registry.cn-hangzhou.aliyuncs.com/personalpool/cross-seed:6.13.5
+lscr.io/linuxserver/prowlarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/prowlarr:latest
