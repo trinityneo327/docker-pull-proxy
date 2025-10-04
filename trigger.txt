@@ -1,1 +1,1 @@
-lscr.io/linuxserver/prowlarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/prowlarr:latest
+lovechen/embyserver:latest registry.cn-hangzhou.aliyuncs.com/personalpool/embyserver:latest
