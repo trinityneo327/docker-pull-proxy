@@ -1,1 +1,1 @@
-lovechen/embyserver:latest registry.cn-hangzhou.aliyuncs.com/personalpool/embyserver:latest
+qyg2297248353/ammds:latest registry.cn-hangzhou.aliyuncs.com/personalpool/ammds:latest
