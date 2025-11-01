@@ -1,2 +1,1 @@
-lscr.io/linuxserver/radarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/radarr:latest
-lscr.io/linuxserver/sonarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/sonarr:latest
+mvdctop/mdc-gui-lite:7.5.4 registry.cn-hangzhou.aliyuncs.com/personalpool/mdc-gui-lite:7.5.4
