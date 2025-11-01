@@ -1,1 +1,1 @@
-mvdctop/mdc-gui-lite:7.5.4 registry.cn-hangzhou.aliyuncs.com/personalpool/mdc-gui-lite:7.5.4
+mvdctop/mdc-gui-lite:v7.5.4 registry.cn-hangzhou.aliyuncs.com/personalpool/mdc-gui-lite:v7.5.4
