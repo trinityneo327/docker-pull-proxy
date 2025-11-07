@@ -1,1 +1,1 @@
-mvdctop/mdc-gui-lite:v7.5.4 registry.cn-hangzhou.aliyuncs.com/personalpool/mdc-gui-lite:v7.5.4
+lscr.io/linuxserver/jackett:latest registry.cn-hangzhou.aliyuncs.com/personalpool/jackett:latest
