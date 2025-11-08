@@ -1,2 +1,1 @@
-ghcr.io/flaresolverr/flaresolverr:v3.4.4 registry.cn-hangzhou.aliyuncs.com/personalpool/flaresolverr:v3.4.4
-ghcr.io/cross-seed/cross-seed:v6.13.6 registry.cn-hangzhou.aliyuncs.com/personalpool/cross-seed:v6.13.6
+ghcr.io/cross-seed/cross-seed:6.13.6 registry.cn-hangzhou.aliyuncs.com/personalpool/cross-seed:6.13.6
