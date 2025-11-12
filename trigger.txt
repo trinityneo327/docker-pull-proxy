@@ -1,1 +1,1 @@
-ghcr.io/cross-seed/cross-seed:6.13.6 registry.cn-hangzhou.aliyuncs.com/personalpool/cross-seed:6.13.6
+herberthe0229/iptv-sources:latest registry.cn-hangzhou.aliyuncs.com/personalpool/iptv-sources:latest
