@@ -1,1 +1,1 @@
-ghcr.io/flaresolverr/flaresolverr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/flaresolverr:latest
+lscr.io/linuxserver/prowlarr:2.3.0.5236-ls131 registry.cn-hangzhou.aliyuncs.com/personalpool/prowlarr:2.3.0.5236-ls131
