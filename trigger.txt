@@ -1,1 +1,1 @@
-lscr.io/linuxserver/prowlarr:2.3.0.5236-ls131 registry.cn-hangzhou.aliyuncs.com/personalpool/prowlarr:2.3.0.5236-ls131
+lscr.io/linuxserver/prowlarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/prowlarr:latest
