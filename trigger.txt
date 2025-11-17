@@ -1,1 +1,1 @@
-lscr.io/linuxserver/prowlarr:latest registry.cn-hangzhou.aliyuncs.com/personalpool/prowlarr:latest
+jxxghp/moviepilot:2.8.2 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot:2.8.2
