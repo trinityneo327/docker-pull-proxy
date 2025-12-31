@@ -1,1 +1,1 @@
-ziggyds/iventoy:latest registry.cn-hangzhou.aliyuncs.com/personalpool/iventoy:latest
+jxxghp/moviepilot-v2:2.9.1 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot-v2:2.9.1
