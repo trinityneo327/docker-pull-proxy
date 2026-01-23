@@ -1,1 +1,1 @@
-iyuucn/iyuuplus-dev:latest registry.cn-hangzhou.aliyuncs.com/personalpool/iyuuplus-dev:latest
+msmkls/daoliyu-backend:0.2.2 registry.cn-hangzhou.aliyuncs.com/personalpool/daoliyu-backend:0.2.2
