@@ -1,2 +1,2 @@
-11notes/kms:1.4.8 registry.cn-hangzhou.aliyuncs.com/personalpool/kms:1.4.8
-11notes/kms-gui:1.4.8 registry.cn-hangzhou.aliyuncs.com/personalpool/kms-gui:1.4.8
+11notes/kms:1.0.3 registry.cn-hangzhou.aliyuncs.com/personalpool/kms:1.0.3
+11notes/kms-gui:1.0.3 registry.cn-hangzhou.aliyuncs.com/personalpool/kms-gui:1.0.3
