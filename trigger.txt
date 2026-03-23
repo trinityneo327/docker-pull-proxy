@@ -1,1 +1,2 @@
-jxxghp/moviepilot-v2:2.9.15 registry.cn-hangzhou.aliyuncs.com/personalpool/moviepilot-v2:2.9.15
+11notes/kms:1.4.8 registry.cn-hangzhou.aliyuncs.com/personalpool/kms:1.4.8
+11notes/kms-gui:1.4.8 registry.cn-hangzhou.aliyuncs.com/personalpool/kms-gui:1.4.8
